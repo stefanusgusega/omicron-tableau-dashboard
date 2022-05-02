@@ -1,0 +1,102 @@
+location,num_sequences,perc_sequences,num_sequences_total,alpha-3
+Argentina,93,100.05,1183,ARG
+Aruba,0,0.0,172,ABW
+Australia,1693,89.89,10479,AUS
+Austria,34,18.990000000000002,1543,AUT
+Bahrain,0,0.0,837,BHR
+Bangladesh,10,123.34,396,BGD
+Belgium,789,91.48,13974,BEL
+Bosnia and Herzegovina,0,0.0,576,BIH
+Botswana,380,200.73,708,BWA
+Brazil,189,61.339999999999996,9902,BRA
+Brunei Darussalam,8,72.73,298,BRN
+Bulgaria,0,0.0,1691,BGR
+Cambodia,19,19.52,653,KHM
+Canada,612,50.94,22599,CAN
+Chile,301,60.470000000000006,3830,CHL
+Colombia,38,35.47,1738,COL
+Costa Rica,15,35.82,512,CRI
+Croatia,8,0.86,3152,HRV
+Curaçao,0,0.0,119,CUW
+Czechia,65,62.160000000000004,6558,CZE
+Denmark,4823,53.8,98761,DNK
+Djibouti,0,0.0,2,DJI
+Dominican Republic,0,0.0,20,DOM
+Ecuador,29,50.5,406,ECU
+Egypt,1,100.0,86,EGY
+Estonia,0,0.0,1060,EST
+Finland,0,0.0,1148,FIN
+France,843,105.61,41146,FRA
+Georgia,46,41.82,431,GEO
+Germany,2270,16.009999999999998,92083,DEU
+Ghana,83,156.54000000000002,205,GHA
+Greece,2,0.33,1909,GRC
+Guatemala,0,0.0,69,GTM
+Hong Kong,55,137.27,167,HKG
+India,215,38.54,6087,IND
+Indonesia,130,42.56,932,IDN
+Iran (Islamic Republic of),1,100.0,3,IRN
+Iraq,0,0.0,1,IRQ
+Ireland,140,16.32,5738,IRL
+Israel,1798,61.41,11145,ISR
+Italy,526,21.799999999999997,14656,ITA
+Jamaica,0,0.0,7,JAM
+Japan,150,90.89,1608,JPN
+Jordan,25,80.28999999999999,178,JOR
+Kenya,38,99.49,142,KEN
+"Korea, Republic of",17,1.08,6517,KOR
+Kuwait,1,33.33,40,KWT
+Lebanon,4,100.0,4,LBN
+Liechtenstein,2,1.59,331,LIE
+Lithuania,56,24.25,4144,LTU
+Luxembourg,1,0.15,3261,LUX
+Malawi,34,200.0,35,MWI
+Malaysia,17,17.28,1375,MYS
+Maldives,11,26.369999999999997,335,MDV
+Malta,34,100.0,233,MLT
+Mauritius,6,7.32,115,MUS
+Mexico,254,56.58,5490,MEX
+"Moldova, Republic of",0,0.0,51,MDA
+Monaco,0,0.0,7,MCO
+Montenegro,6,8.7,166,MNE
+Morocco,15,93.75,55,MAR
+Mozambique,17,175.0,21,MOZ
+Nepal,3,12.0,65,NPL
+Netherlands,489,84.18,14562,NLD
+New Zealand,76,120.12,2179,NZL
+Nigeria,83,207.34,195,NGA
+North Macedonia,0,0.0,48,MKD
+Norway,308,54.65,6480,NOR
+Oman,9,200.0,9,OMN
+Pakistan,22,177.89,141,PAK
+Papua New Guinea,0,0.0,157,PNG
+Paraguay,0,0.0,14,PRY
+Peru,12,103.08,2371,PER
+Poland,46,13.62,13913,POL
+Portugal,194,30.810000000000002,4749,PRT
+Qatar,0,0.0,207,QAT
+Romania,15,17.56,1142,ROU
+Russian Federation,48,31.02,2046,RUS
+Rwanda,0,0.0,7,RWA
+Senegal,32,170.96,74,SEN
+Seychelles,0,0.0,21,SYC
+Singapore,278,56.739999999999995,2468,SGP
+Sint Maarten (Dutch part),0,0.0,88,SXM
+Slovakia,17,10.83,6645,SVK
+Slovenia,7,0.46,9202,SVN
+South Africa,1872,297.43,2340,ZAF
+Spain,703,57.93000000000001,8394,ESP
+Sri Lanka,48,85.52000000000001,690,LKA
+Suriname,0,0.0,79,SUR
+Sweden,634,40.61,18347,SWE
+Switzerland,782,44.089999999999996,24395,CHE
+Thailand,18,28.65,2533,THA
+Trinidad and Tobago,10,24.759999999999998,525,TTO
+Turkey,205,9.729999999999999,10052,TUR
+Uganda,1,100.0,1,UGA
+Ukraine,1,100.0,173,UKR
+United Kingdom of Great Britain and Northern Ireland,65137,171.02999999999997,503692,GBR
+United States of America,28536,133.87,474283,USA
+Viet Nam,1,2.0,295,VNM
+Zambia,46,200.0,46,ZMB
+Zimbabwe,0,0.0,6,ZWE
